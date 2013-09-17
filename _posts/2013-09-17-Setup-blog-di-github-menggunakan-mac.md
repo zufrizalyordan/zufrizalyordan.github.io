@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Setup blog di github menggunakan Mac
+categories : [jekyll, bootstrap, github]
+tags : [setup, beginner/intermediate]
 ---
 
 Kebutuhan :
@@ -11,7 +13,6 @@ Kebutuhan :
 
 Level :
 + beginner - intermediate
-
 
 
 1. login ke account Github

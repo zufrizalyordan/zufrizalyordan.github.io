@@ -5,15 +5,16 @@ categories : [jekyll, bootstrap, github]
 tags : [setup, beginner/intermediate]
 ---
 
+
+Level :
+beginner - intermediate
+
+
 Kebutuhan :
 + Terminal
 + Account di Github
 + Ruby > 1.9 
   apabila belum punya ruby atau versi di komputer anda di bawah 1.9, silahkan kunjungi [https://www.ruby-lang.org/en/downloads/](https://www.ruby-lang.org/en/downloads/) dan ikuti langkah untuk Ruby for Mac.
-
-Level :
-+ beginner - intermediate
-
 
 1. login ke account Github
 2. buat repo sesuai nama username
@@ -38,4 +39,9 @@ buka browser dan ketik
 apabila ada halaman yang tampil, selamat anda berhasil!
 
 ~zy
+
+
+
+
+
 

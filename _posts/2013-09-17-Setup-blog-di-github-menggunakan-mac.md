@@ -1,6 +1,6 @@
 ---
 layout: post
-title: setup blog di github
+title: Setup blog di github menggunakan Mac
 ---
 
 1. login ke account Github
